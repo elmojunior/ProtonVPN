@@ -2,6 +2,9 @@
 
 Este é uma aplicação não oficial do ProtonVPN. Trata-se de uma interface gráfica para o software oficial do ProtonVPN Protonvpn-cli no Linux. Foi elaborado apenas para sistemas Linux, pois já existem versões gráficas oficiais para os demais sistemas.
 
+
+![ProtonVPN](https://raw.githubusercontent.com/elmojunior/ProtonVPN/master/images/ProtonVPN.png)
+
 **Atenção:** Este software foi desenvolvido e homologado na distribuição KDE Neon 5.18.5 64-bits. Em breve haverá mais adaptações, porém é possível que ele rode em outras distribuições.
 
 ## Dependências
@@ -49,11 +52,11 @@ Este software é distribuído com a licença GPL v3:
 modificá-lo sob os termos da Licença Pública Geral GNU como publicada
 pela Free Software Foundation; na versão 3 da Licença, ou
 (a seu critério) qualquer versão posterior.
-
+>
 >Este programa é distribuído na esperança de que possa ser útil,
 mas SEM NENHUMA GARANTIA; sem uma garantia implícita de ADEQUAÇÃO
 a qualquer MERCADO ou APLICAÇÃO EM PARTICULAR. Veja a
 Licença Pública Geral GNU para mais detalhes.
-
+>
 >Você deve ter recebido uma cópia da Licença Pública Geral GNU junto
 com este programa. Se não, veja <http://www.gnu.org/licenses/>.
