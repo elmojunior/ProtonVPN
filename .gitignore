@@ -1,6 +1,10 @@
 # Created by https://www.gitignore.io/api/linux,lazarus
 # Edit at https://www.gitignore.io/?templates=linux,lazarus
 
+### Local ###
+# Executável para o Linux
+ProtonVPN
+
 ### Lazarus ###
 # Lazarus compiler-generated binaries (safe to delete)
 *.exe
